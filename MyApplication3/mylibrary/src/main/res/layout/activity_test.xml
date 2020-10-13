@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="100dp"
-        android:text="自测升级"
+        android:text="自测升级1111"
         android:gravity="center"
         android:textSize="25sp"
         android:textColor="#333333"
